@@ -19,3 +19,4 @@ while progress<10:
 		stored_random_number = n
 
 print(stored_random_number)
+
